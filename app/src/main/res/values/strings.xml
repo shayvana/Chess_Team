@@ -1,0 +1,12 @@
+<resources>
+
+        <string name="app_name">Chess</string>
+        <string name="action_teampage">Team Page</string>
+        <string name="action_pastmatches">Past Matches</string>
+        <string name="action_newmatch">New Match</string>
+        <string name="action_conferenceresults">Conference Results</string>
+        <string name="action_logout">Log Out</string>
+        <string name="login">Log in/Register</string>
+
+
+</resources>
